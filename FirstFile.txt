@@ -1,1 +1,2 @@
 Initial file.
+This is a second line.
